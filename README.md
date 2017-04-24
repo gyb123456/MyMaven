@@ -1,3 +1,3 @@
-# MyMaven
+MyMaven
 mavenÏîÄ¿
 git
